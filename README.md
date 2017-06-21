@@ -1,0 +1,2 @@
+# goTest
+my go test
